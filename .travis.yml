@@ -17,4 +17,5 @@ otp_release:
    - R14B02
 branches:
   only:
-    - master 
+    - master
+    - feature/travis
